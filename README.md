@@ -1,4 +1,4 @@
-# Patent Analytics Program Setup & Walkthrough
+# Patent Analytics Program Setup & Walkthrough (For Javascript)
 ## Install
 1) This project uses node.js and node-oracle db. 
 2) Install Node.js by downloading the 64-bit MSI package. 
