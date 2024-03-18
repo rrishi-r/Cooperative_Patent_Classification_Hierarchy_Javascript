@@ -18,3 +18,7 @@
 4) Run splitApplicants.js from node.js
 5) Run ANALYTICS_EXTRACT.sql to export normalized Patent Analytics data to Excel
 6) Import Excel into Zoho analytics platform
+
+## Published Research Paper
+[2061-Article.Text-11499-1-10-20211129.pdf](https://github.com/rrishi-r/Cooperative_Patent_Classification_Hierarchy_Javascript/files/14640560/2061-Article.Text-11499-1-10-20211129.pdf)
+
